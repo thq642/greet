@@ -251,7 +251,7 @@
   <!-- Hi, I'm Angelo -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="140" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Angelo</text>
+    <text x="15" y="27">Hi, I'm Mikail Thoriq</text>
   </g>
 
   <!-- typing 2 -->
@@ -275,8 +275,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="455" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Bekasi, Indonesia where it’s supposed to be</text>
-    <text x="15" y="50">32°C (90F) and <tspan class="emoji">🌧</tspan> today.</text>
+    <text x="15" y="27">I live in Jatijajar, Jawa Barat, Indonesia where it’s supposed to be</text>
+    <text x="15" y="50">28°C (82F) and <tspan class="emoji">☀️</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -299,8 +299,8 @@
 
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="430" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a fullstack web engineer. Though, I have a lot</text>
-    <text x="15" y="50">of interests including community management.</text>
+    <text x="15" y="27">I’m a Hobbyist programmer Though, I have a lot</text>
+    <text x="15" y="50">of interests including containerized service</text>
   </g>
 
   <!-- typing 4 -->
@@ -326,7 +326,7 @@
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find my socials at
-      <a xlink:href="https://angeloanan.xyz/contact">https://angeloanan.xyz/contact</a>
+      <a xlink:href="https://mikailthoriq.my.id">https://mikailthoriq.my.id</a>
     </text>
   </g>
 
@@ -374,7 +374,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="235" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great Tuesday! <tspan class="emoji">👋</tspan></text>  
+    <rect width="245" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Have a great Saturday! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
