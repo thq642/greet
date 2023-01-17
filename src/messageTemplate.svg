@@ -248,15 +248,15 @@
 
   </g>
 
-  <!-- Hi, I'm Angelo -->
+  <!-- Hi, I'm Mikail Thoriq -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="140" height="42" rx="18.0355" />
+    <rect width="186" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Mikail Thoriq</text>
   </g>
 
   <!-- typing 2 -->
   <g transform="translate(10, 48)" class="typing-2">
-    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <rect x="8.27246" width="110" height="50" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
@@ -274,8 +274,8 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="455" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Jatijajar, Jawa Barat, Indonesia where it’s supposed to be</text>
+    <rect width="400" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I live in Jatijajar, Jawa Barat, Indonesia &#127470;&#127465;</text>
     <text x="15" y="50">{degC}°C ({degF}F) and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
 
@@ -321,9 +321,9 @@
 
   </g>
 
-  <!-- Twitter -->
+  <!-- Website -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
+    <rect width="480" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find my socials at
       <a xlink:href="https://mikailthoriq.my.id">https://mikailthoriq.my.id</a>
